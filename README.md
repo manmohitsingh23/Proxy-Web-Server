@@ -38,8 +38,8 @@
 <h2>Setup and Installation</h2>
 <ol>
     <li><strong>Clone the Repository</strong>
-        <pre><code>git clone https://github.com/yourusername/proxy-web-server.git</code></pre>
-        <pre><code>cd proxy-web-server</code></pre>
+        <pre><code>git clone https://github.com/yourusername/Proxy-Web-Server.git</code></pre>
+        <pre><code>cd Proxy-Web-Server</code></pre>
     </li>
     <li><strong>Create <code>blockedSites.txt</code></strong>
         <p>The proxy uses a text file to load a list of blocked websites. Each line in this file should contain the domain name (or part of the domain) of a site you wish to block.</p>
