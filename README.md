@@ -3,12 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Proxy Web Server - Java HTTP/HTTPS Proxy</title>
 </head>
 <body style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 20px; line-height: 1.6;">
 
   <h1>Proxy Web Server</h1>
-  <p><a href="https://github.com/manmohitsingh23/Proxy-Web-Server" target="_blank">GitHub Repository</a></p>
 
   <p>This is a simple Proxy Web Server implemented in Java. It listens on a specific port and forwards HTTP/HTTPS requests from clients to the appropriate web servers. It also blocks access to specified websites using a blacklist. Both HTTP and HTTPS protocols are supported.</p>
 
